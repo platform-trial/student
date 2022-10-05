@@ -68,6 +68,7 @@ john = Student("John", 13)
 print(f"John's age: {john.age}")
 
 print(john.name)
+print(john.age)
 
 print(chee.intro())
 
