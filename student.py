@@ -65,9 +65,9 @@ print(chee.name)
 chee.celebrate_birthday("Great!")
 
 john = Student("John", 13)
-print(f"John's age: {john.age}"
+print(f"John's age: {john.age}")
 
-print(john.nam)
+print(john.name)
 
 print(chee.intro())
 
