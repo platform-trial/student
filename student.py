@@ -68,7 +68,7 @@ john = Student("John", 13)
 print(f"John's age: {john.age}")
 
 print(john.name)
-print(john.age)
+print(f"John's age: {john.age}")
 
 frank = Student("Frank", 9)
 
